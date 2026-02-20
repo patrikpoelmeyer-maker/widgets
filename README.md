@@ -1,4 +1,4 @@
-# Wangerland Widgets – docs/
+# Butjadingen Widgets – docs/
 
 **Dateien:**
 - `index.html` – Startseite mit Widget-Grid, Kontakt und Referenzen
